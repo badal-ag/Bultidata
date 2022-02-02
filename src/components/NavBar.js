@@ -34,8 +34,8 @@ export default function NavBar() {
           
         </ul>
         <form class="d-flex">
-          <button class="btn btn-style" type="submit">Log In</button>
-          <button class="btn btn-style btn-style-border" type="submit">Sign Up</button>
+          <button class="btn btn-style" type="submit"><a href="https://github.com/badal-ag" target="_blank">Visit Github</a></button>
+          <button class="btn btn-style" type="submit"><a href="https://badal-agarwal.web.app" target="_blank">Website</a></button>
         </form>
       </div>
     </div>

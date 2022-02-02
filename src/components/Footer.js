@@ -17,12 +17,6 @@ export default function Footer() {
                     <li>
                       <a href="#">About</a>
                     </li>
-                    <li>
-                      <a href="#">About</a>
-                    </li>
-                    <li>
-                      <a href="#">About</a>
-                    </li>
                   </ul>
                 </div>
 
@@ -35,24 +29,12 @@ export default function Footer() {
                     <li>
                       <a href="#">About</a>
                     </li>
-                    <li>
-                      <a href="#">About</a>
-                    </li>
-                    <li>
-                      <a href="#">About</a>
-                    </li>
                   </ul>
                 </div>
 
                 <div className="col-6 col-lg-3">
                   <h2>Services</h2>
                   <ul>
-                    <li>
-                      <a href="#">About</a>
-                    </li>
-                    <li>
-                      <a href="#">About</a>
-                    </li>
                     <li>
                       <a href="#">About</a>
                     </li>

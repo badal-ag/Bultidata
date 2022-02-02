@@ -180,7 +180,7 @@ export default function Contact() {
                       <label
                         class="form-check-label"
                         className="main-hero-para">
-                        I agree that the thapatechnicalpay may contact me at the
+                        I agree that the Bultidata may contact me at the
                         email address or phone number above
                       </label>
                     </div>
